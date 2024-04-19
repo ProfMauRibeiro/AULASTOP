@@ -1,1 +1,1 @@
-São os códigos da aula de programação em HTML e CSS para o ensino médio. 
+São os códigos e esquemas de robóticas realizados em sala de aula e em várias outras ocasiões.
